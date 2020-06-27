@@ -31,9 +31,9 @@
 	
 ### Demonstration
 > application demo
-`bash
+```bash
 python run.py --operation demo
-`
+```
 
 
 ### Data proecessing
